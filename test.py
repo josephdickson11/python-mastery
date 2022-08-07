@@ -1,8 +1,6 @@
 print(f"this is a new {2022} format")
 
 
-
-
 def day_in_sec(day):
     SECS_IN_DAYS = 60 * 60
 
